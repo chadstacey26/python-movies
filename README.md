@@ -5,3 +5,4 @@ Primary aims:
 - Explore relationships using Python
 - Experiment with mcahine learning
 - Produce various visualisations to demonstrate findings 
+- Data source: https://www.kaggle.com/danielgrijalvas/movies
