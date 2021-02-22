@@ -3,6 +3,7 @@
 Primary aims:
 - Source open data in an area of interest
 - Explore relationships using Python
-- Experiment with mcahine learning
+- Experiment with machine learning
+- Conduct a time series analysis using Python
 - Produce various visualisations to demonstrate findings 
 - Data source: https://www.kaggle.com/danielgrijalvas/movies
